@@ -35,7 +35,7 @@ export default {
   miniColor: {
     height: "25%",
     width: "20%",
-    display: "inline-block",
+    display: "inline-block", 
     margin: "0 auto",
     position: "relative",
     marginBottom: "-3.5px",

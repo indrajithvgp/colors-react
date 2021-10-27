@@ -5,7 +5,7 @@ export default {
     display: "flex",
     flexDirection: "column"
   },
-  colors: {
+  colors: { 
     height: "90%"
   },
   goBack: {
